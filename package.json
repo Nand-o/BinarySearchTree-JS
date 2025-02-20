@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "binarysearchtree",
+  "version": "1.0.0",
+  "description": "This reposity when i am learning about web developer on The Odin Project website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nand-o/BinarySearchTree-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nand-o/BinarySearchTree-JS/issues"
+  },
+  "homepage": "https://github.com/Nand-o/BinarySearchTree-JS#readme"
+}
